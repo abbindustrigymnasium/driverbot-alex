@@ -1,6 +1,8 @@
 # Driverbot template
 I det här repot hittar ni exempel kod att utgå från samt instruktioner när ni kodar i ert projekt.
 
+RÄTT!
+
 ## GitHub
 Acceptera uppgiften på [https://classroom.github.com/a/cqxgjh7K](https://classroom.github.com/a/cqxgjh7K). 
 
